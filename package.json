@@ -1,0 +1,27 @@
+{
+  "name": "@math/smart-roundify",
+  "version": "1.0.2",
+  "description": "Advanced rounding utility with multiple strategies and currency support",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "rounding",
+    "math",
+    "typescript",
+    "currency",
+    "precision"
+  ],
+  "author": "Ankita Shrivastava",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.3.0",
+    "ts-jest": "^29.4.9",
+    "typescript": "^6.0.3"
+  }
+}
